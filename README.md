@@ -1,3 +1,5 @@
+[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
+[<image-card alt="Zapier" src="https://img.shields.io/badge/Powered%20by-Zapier-blue?logo=zapier" ></image-card>](https://zapier.com)
 # Sentinel Enricher
 
 > Automated security alert triage and enrichment pipeline.
