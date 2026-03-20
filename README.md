@@ -1,8 +1,14 @@
 [<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
 [<image-card alt="Zapier" src="https://img.shields.io/badge/Powered%20by-Zapier-blue?logo=zapier" ></image-card>](https://zapier.com)
+
+
 # Sentinel Enricher
 
 > Automated security alert triage and enrichment pipeline.
+
+**One-click import via Zapier template**  
+[Use this template → Sentinel Enricher – Security Alert Triage + VirusTotal Enrichment](https://zapier.com/shared/b299f308dd4e5f22338afdefc73e0763cc5f4673)  
+(Connects Webhooks → Python sentiment/IOC extraction → VirusTotal → GitHub issues. Takes ~2 minutes to set up.)
 
 Sentinel Enricher ingests security alerts from multiple sources (email, Datadog, Intruder, or any webhook), enriches them with threat intelligence via VirusTotal, and automatically creates a GitHub Issue or posts a structured Slack summary
 
